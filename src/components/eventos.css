@@ -1,0 +1,30 @@
+ul{
+    list-style: none;
+    margin-top: 40px;
+}
+ul .evento-container{
+    padding: 13px 15px;
+    border-radius: 4px;
+    background: #444;
+    color: chartreuse;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.1em;
+}
+ul .evento-container + .evento-container{
+    margin-top: 15px;
+}
+svg{
+    cursor: pointer;
+}
+.evento-botoes{
+    background: #444;
+    display: flex;
+    gap: 25px;
+}
+
+.evento-titulo{
+    background: #444;
+    cursor: pointer;
+}

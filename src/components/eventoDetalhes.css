@@ -1,0 +1,20 @@
+.voltar{
+    display: flex;
+}
+
+h2{
+    color: #eee;
+    margin: 30px 0 20px;
+}
+h2::after{
+    content: '';
+    display: block;
+    height: 2px;
+    width: 20%;
+    background: chartreuse;
+    margin-top: 5px;
+}
+p{
+    line-height: 1.5em;
+    color: #eee;
+}

@@ -1,0 +1,19 @@
+.container-principal{
+    max-width: 560px;
+    padding: 30px;
+    border-radius: 5px;
+    border: 2px solid chartreuse;
+    margin: 30px auto;
+    overflow: auto;
+}
+
+.container-principal h1{
+    margin: 20px 0;
+    color: #eee;
+}
+
+.aviso{
+    font-size: 1.2em;
+    color: #eee;
+    text-align: center;
+}

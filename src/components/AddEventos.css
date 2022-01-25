@@ -1,0 +1,15 @@
+.adicionar-container{
+    width: 100%;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+.adicionar-container input{
+    flex: 2;
+    padding: 10px 12px;
+    border-radius: 4px;
+    border: none;
+    background: #eee;
+    font-size: 1.1em;
+    color: #1d1e20;
+}
